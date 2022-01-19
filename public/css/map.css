@@ -1,0 +1,21 @@
+*
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+#map
+{
+    border: black;
+    border-style: dotted; 
+    height: 700px;
+}
+
+#follow
+{
+    border: 5px solid #999999;
+    background-color: #cccccc;
+
+}
+
+button:hover {
+    cursor:pointer;
+  }
